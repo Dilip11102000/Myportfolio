@@ -105,7 +105,7 @@ function Home({ colorName, theme }) {
                             >
                                 <span className='k-text'>D</span>ilip G <span style={{ color: '#EF0107', fontWeight: 'bold', fontSize: "1rem" }}>(
                                     <Typewriter
-                                        words={['Reactjs 😃', 'ReactNative 😃',]}
+                                        words={['Reactjs 😃']}
                                         loop={5}
                                         cursor
                                         cursorStyle='_'
