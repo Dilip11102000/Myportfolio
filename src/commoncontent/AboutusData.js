@@ -48,7 +48,7 @@ export const Qualifications = [
     dgname: "( BBA )",
     clgName: "Sri Vidya Mandir Arts & Science College",
     year: "2017-2020",
-    place: "Krishnagar",
+    place: "krishnagiri",
     calicon: <i class="fa-regular fa-calendar cal-icon"></i>,
   },
   {
@@ -67,7 +67,7 @@ export const Qualifications = [
     dgname: "( HSC )",
     year: "2015 - 2017",
     clgName: "Government Boys Hr Sec School ",
-    place: "Krishnagar",
+    place: "krishnagiri",
     calicon: <i class="fa-regular fa-calendar cal-icon"></i>,
   },
   {
@@ -76,7 +76,7 @@ export const Qualifications = [
     dgname: "( SSLC )",
     year: "2015",
     clgName: "Government Boys Hr Sec School",
-    place: "Krishnagar",
+    place: "krishnagiri",
     calicon: <i class="fa-regular fa-calendar cal-icon"></i>,
   },
 ];
