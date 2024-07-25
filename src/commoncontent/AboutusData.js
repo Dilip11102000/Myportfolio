@@ -19,7 +19,7 @@ export const PersonalContent = {
     phoneno: "+91 6369330231",
     emailid: "dilipgovindhan2000@gmail.com",
     dob: "Born on 11 July,2000",
-    deggre: "Master of Business Administration,(operation management,system)",
+    deggre: "Master of Business Administration,(operation management & system)(MBA)",
     address: "chennai",
     desc: "I specialize in crafting intuitive websites with cutting-edge techonogy, delivering dynamic and enaging user experiences.",
     languageName: "Language Skill",
