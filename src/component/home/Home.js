@@ -47,7 +47,7 @@ function Home({ colorName, theme }) {
     }
 
     const GithubPath = () => {
-        window.open('https://github.com/VikyHari')
+        window.open('https://github.com/')
     }
     const handleType = (count) => {
     }
