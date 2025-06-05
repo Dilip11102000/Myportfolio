@@ -205,7 +205,7 @@ function Home({ colorName, theme }) {
                             </div>
                             <div className='happy-client-text' >
                                 <div className='text-years'>
-                                    1+</div>
+                                    2+</div>
                                 <div className='year-text'>
                                     Years of <br />Experience
                                 </div>
@@ -219,7 +219,7 @@ function Home({ colorName, theme }) {
                             </div>
                             <div className='happy-client-text'>
                                 <div className='text-years'>
-                                    4+</div>
+                                    8+</div>
                                 <div className='year-text'>
                                     Projects <br />Completed
                                 </div>
